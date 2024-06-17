@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "P":{
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "pattern": [
+    " P ",
+    "DOD",
+    " P "
+  ],
+  "result": {
+    "id": "themod:chilled_obsidian",
+    "count": 1
+  }
+}

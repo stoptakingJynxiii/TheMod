@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "themod:soul"
+    },
+    "I": {
+      "item": "themod:ice_rod"
+    },
+    "C": {
+      "item": "themod:chilled_obsidian"
+    },
+    "P":{
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "pattern": [
+    " PS",
+    "CSP",
+    "IC "
+  ],
+  "result": {
+    "id": "themod:blue_rose",
+    "count": 1
+  }
+}

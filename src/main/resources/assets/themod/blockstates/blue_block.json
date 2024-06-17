@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "themod:block/blue_block"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+
+    "E": {
+      "item": "themod:extinguished_rod"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "P":{
+      "item": "minecraft:packed_ice"
+    }
+  },
+  "pattern": [
+    "DPD",
+    "PEP",
+    "DPD"
+  ],
+  "result": {
+    "id": "themod:ice_rod",
+    "count": 1
+  }
+}
